@@ -3,3 +3,4 @@
 mozza
 emmental
 bleu d'auvergne
+comté
